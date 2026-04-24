@@ -1,4 +1,4 @@
-Python Console Quiz Game
+# Python Console Quiz Game
 
 Python으로 만든 콘솔 기반 퀴즈 게임입니다. 터미널에서 문제를 풀고, 새 문제를 추가하고, 최고 점수를 저장할 수 있는 간단한 학습용 프로그램입니다.
 
